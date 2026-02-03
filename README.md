@@ -1,1 +1,1 @@
-System ma umożliwiać tworzenie wydarzeń (konferencji, warsztatów itp.), przypisywanie prelegentów (speakerów) do wydarzeń, zapisywanie uczestników i kontrolowanie dostępności miejsc. Uczestnicy mogą rejestrować się na wydarzenia (z limitem miejsc), otrzymywać potwierdzenia i anulować udział.
+Backend system for event management with speakers, attendee registrations, seat limits, confirmations, and cancellations.
